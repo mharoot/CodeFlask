@@ -1,2 +1,1 @@
-# CodeFlask
-"Create beautiful code snippets for your website using CodeFlask"
+#php rich code snippet html generating text editor
